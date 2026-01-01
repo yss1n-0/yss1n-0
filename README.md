@@ -1,4 +1,5 @@
 ## Hi ✌️ My name is Yassin Abdelghany
+![Profile views](https://komarev.com/ghpvc/?username=yss1n-0)
 
 <!--
 **yss1n-0/yss1n-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
