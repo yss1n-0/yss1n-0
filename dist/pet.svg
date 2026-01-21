@@ -1,23 +1,122 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="296" height="311" viewBox="0 0 296 311">
+<svg xmlns="http://www.w3.org/2000/svg" width="296" height="341" viewBox="0 0 296 341">
       <style>
         .pet { transform-origin: center; }
       </style>
       <!-- Theme Background -->
       
-        <rect x="5" y="5" width="286" height="296" rx="12" ry="12" fill="rgba(45, 51, 59, 0.15)"/>
+        <rect x="5" y="5" width="286" height="326" rx="12" ry="12" fill="rgba(45, 51, 59, 0.15)"/>
       
+      <!-- Weather Effects (behind pet) -->
+      <g class="weather-layer" style="pointer-events: none;">
+        
+        <g fill="#FFD700">
+          <circle cx="241.81027269692305" cy="48.40528995555395" r="1.1815893590356397">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.950335106990198s" repeatCount="indefinite"/>
+        </circle><circle cx="155.49623615353042" cy="94.96907553166865" r="1.344765146520385">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.153848350063114s" repeatCount="indefinite"/>
+        </circle><circle cx="245.29408235840216" cy="122.33283757625847" r="1.9821868084250758">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.532206551224695s" repeatCount="indefinite"/>
+        </circle><circle cx="17.84469339794231" cy="170.97574483287937" r="1.6853038382754604">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.0964509642936857s" repeatCount="indefinite"/>
+        </circle><circle cx="58.37064225133387" cy="126.50067256247853" r="2.014813426719325">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8454275757266347s" repeatCount="indefinite"/>
+        </circle><circle cx="86.48306757304827" cy="44.19836372907201" r="2.9493683689980603">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.783300681617023s" repeatCount="indefinite"/>
+        </circle><circle cx="84.8378042706978" cy="144.31422979888174" r="1.5218429100160002">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.420851885103155s" repeatCount="indefinite"/>
+        </circle><circle cx="165.89750357122077" cy="83.84834005063493" r="2.0888031620028977">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.786590696384998s" repeatCount="indefinite"/>
+        </circle><circle cx="132.09241237690645" cy="144.86515338940265" r="1.8123047023321228">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.478006736056329s" repeatCount="indefinite"/>
+        </circle><circle cx="216.65222494732578" cy="131.98088386364168" r="1.2004211108887248">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="2.395114447988351s" repeatCount="indefinite"/>
+        </circle><circle cx="88.78952119277142" cy="140.9762418965842" r="1.430316860468567">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.554395844500017s" repeatCount="indefinite"/>
+        </circle><circle cx="65.76102966527685" cy="31.94433547294303" r="2.0611807299955367">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.7324783754577844s" repeatCount="indefinite"/>
+        </circle><circle cx="68.0506199046172" cy="152.81229762387156" r="1.1699941069517852">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.144619182848528s" repeatCount="indefinite"/>
+        </circle><circle cx="149.15911350494434" cy="61.59405385925886" r="1.4183123055241733">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2109812237228108s" repeatCount="indefinite"/>
+        </circle><circle cx="228.58576035937713" cy="133.4458865366048" r="1.3745880984504377">
+          <animate attributeName="opacity" values="0.3;1;0.3" dur="1.6749314673339013s" repeatCount="indefinite"/>
+        </circle>
+        </g>
+      
+      </g>
+      <!-- Evolution Effects (behind pet) -->
+      <g class="evolution-layer" style="pointer-events: none;">
+        
+      </g>
       <g transform="translate(20, 20)" opacity="0.7">
         <g class="pet">
-            <rect x="96" y="16" width="16" height="16" fill="#2d333b" /><rect x="112" y="16" width="16" height="16" fill="#2d333b" /><rect x="128" y="16" width="16" height="16" fill="#2d333b" /><rect x="144" y="16" width="16" height="16" fill="#2d333b" /><rect x="160" y="16" width="16" height="16" fill="#2d333b" /><rect x="80" y="32" width="16" height="16" fill="#2d333b" /><rect x="96" y="32" width="16" height="16" fill="#abb2bf" /><rect x="112" y="32" width="16" height="16" fill="#abb2bf" /><rect x="128" y="32" width="16" height="16" fill="#abb2bf" /><rect x="144" y="32" width="16" height="16" fill="#abb2bf" /><rect x="160" y="32" width="16" height="16" fill="#abb2bf" /><rect x="176" y="32" width="16" height="16" fill="#2d333b" /><rect x="64" y="48" width="16" height="16" fill="#2d333b" /><rect x="80" y="48" width="16" height="16" fill="#abb2bf" /><rect x="96" y="48" width="16" height="16" fill="#abb2bf" /><rect x="112" y="48" width="16" height="16" fill="#abb2bf" /><rect x="128" y="48" width="16" height="16" fill="#abb2bf" /><rect x="144" y="48" width="16" height="16" fill="#abb2bf" /><rect x="160" y="48" width="16" height="16" fill="#abb2bf" /><rect x="176" y="48" width="16" height="16" fill="#abb2bf" /><rect x="192" y="48" width="16" height="16" fill="#2d333b" /><rect x="48" y="64" width="16" height="16" fill="#2d333b" /><rect x="64" y="64" width="16" height="16" fill="#abb2bf" /><rect x="80" y="64" width="16" height="16" fill="#abb2bf" /><rect x="96" y="64" width="16" height="16" fill="#2d333b" /><rect x="128" y="64" width="16" height="16" fill="#2d333b" /><rect x="144" y="64" width="16" height="16" fill="#abb2bf" /><rect x="160" y="64" width="16" height="16" fill="#abb2bf" /><rect x="176" y="64" width="16" height="16" fill="#abb2bf" /><rect x="192" y="64" width="16" height="16" fill="#2d333b" /><rect x="48" y="80" width="16" height="16" fill="#2d333b" /><rect x="64" y="80" width="16" height="16" fill="#abb2bf" /><rect x="80" y="80" width="16" height="16" fill="#abb2bf" /><rect x="96" y="80" width="16" height="16" fill="#abb2bf" /><rect x="112" y="80" width="16" height="16" fill="#abb2bf" /><rect x="128" y="80" width="16" height="16" fill="#abb2bf" /><rect x="144" y="80" width="16" height="16" fill="#abb2bf" /><rect x="160" y="80" width="16" height="16" fill="#abb2bf" /><rect x="176" y="80" width="16" height="16" fill="#abb2bf" /><rect x="192" y="80" width="16" height="16" fill="#2d333b" /><rect x="64" y="96" width="16" height="16" fill="#2d333b" /><rect x="80" y="96" width="16" height="16" fill="#2d333b" /><rect x="96" y="96" width="16" height="16" fill="#2d333b" /><rect x="112" y="96" width="16" height="16" fill="#2d333b" /><rect x="128" y="96" width="16" height="16" fill="#abb2bf" /><rect x="144" y="96" width="16" height="16" fill="#abb2bf" /><rect x="160" y="96" width="16" height="16" fill="#abb2bf" /><rect x="176" y="96" width="16" height="16" fill="#2d333b" /><rect x="64" y="112" width="16" height="16" fill="#2d333b" /><rect x="80" y="112" width="16" height="16" fill="#abb2bf" /><rect x="96" y="112" width="16" height="16" fill="#abb2bf" /><rect x="112" y="112" width="16" height="16" fill="#2d333b" /><rect x="128" y="112" width="16" height="16" fill="#abb2bf" /><rect x="144" y="112" width="16" height="16" fill="#abb2bf" /><rect x="160" y="112" width="16" height="16" fill="#abb2bf" /><rect x="176" y="112" width="16" height="16" fill="#2d333b" /><rect x="48" y="128" width="16" height="16" fill="#2d333b" /><rect x="64" y="128" width="16" height="16" fill="#abb2bf" /><rect x="80" y="128" width="16" height="16" fill="#abb2bf" /><rect x="96" y="128" width="16" height="16" fill="#abb2bf" /><rect x="112" y="128" width="16" height="16" fill="#abb2bf" /><rect x="128" y="128" width="16" height="16" fill="#abb2bf" /><rect x="144" y="128" width="16" height="16" fill="#abb2bf" /><rect x="160" y="128" width="16" height="16" fill="#2d333b" /><rect x="32" y="144" width="16" height="16" fill="#2d333b" /><rect x="48" y="144" width="16" height="16" fill="#abb2bf" /><rect x="64" y="144" width="16" height="16" fill="#abb2bf" /><rect x="80" y="144" width="16" height="16" fill="#abb2bf" /><rect x="96" y="144" width="16" height="16" fill="#abb2bf" /><rect x="112" y="144" width="16" height="16" fill="#abb2bf" /><rect x="128" y="144" width="16" height="16" fill="#abb2bf" /><rect x="144" y="144" width="16" height="16" fill="#2d333b" /><rect x="16" y="160" width="16" height="16" fill="#2d333b" /><rect x="32" y="160" width="16" height="16" fill="#abb2bf" /><rect x="48" y="160" width="16" height="16" fill="#abb2bf" /><rect x="64" y="160" width="16" height="16" fill="#abb2bf" /><rect x="80" y="160" width="16" height="16" fill="#abb2bf" /><rect x="96" y="160" width="16" height="16" fill="#abb2bf" /><rect x="112" y="160" width="16" height="16" fill="#abb2bf" /><rect x="128" y="160" width="16" height="16" fill="#2d333b" /><rect x="16" y="176" width="16" height="16" fill="#2d333b" /><rect x="64" y="176" width="16" height="16" fill="#2d333b" /><rect x="112" y="176" width="16" height="16" fill="#2d333b" /><rect x="144" y="176" width="16" height="16" fill="#2d333b" />
+            <rect x="80" y="0" width="16" height="16" fill="#2d333b" /><rect x="112" y="0" width="16" height="16" fill="#2d333b" /><rect x="144" y="0" width="16" height="16" fill="#2d333b" /><rect x="48" y="16" width="16" height="16" fill="#2d333b" /><rect x="80" y="16" width="16" height="16" fill="#00ADD8" /><rect x="112" y="16" width="16" height="16" fill="#00ADD8" /><rect x="144" y="16" width="16" height="16" fill="#00ADD8" /><rect x="176" y="16" width="16" height="16" fill="#00ADD8" /><rect x="208" y="16" width="16" height="16" fill="#2d333b" /><rect x="32" y="32" width="16" height="16" fill="#2d333b" /><rect x="64" y="32" width="16" height="16" fill="#00ADD8" /><rect x="96" y="32" width="16" height="16" fill="#00ADD8" /><rect x="128" y="32" width="16" height="16" fill="#00ADD8" /><rect x="160" y="32" width="16" height="16" fill="#00ADD8" /><rect x="192" y="32" width="16" height="16" fill="#00ADD8" /><rect x="16" y="48" width="16" height="16" fill="#2d333b" /><rect x="48" y="48" width="16" height="16" fill="#00ADD8" /><rect x="80" y="48" width="16" height="16" fill="#2d333b" /><rect x="112" y="48" width="16" height="16" fill="#2d333b" /><rect x="144" y="48" width="16" height="16" fill="#00ADD8" /><rect x="176" y="48" width="16" height="16" fill="#00ADD8" /><rect x="208" y="48" width="16" height="16" fill="#2d333b" /><rect x="16" y="64" width="16" height="16" fill="#2d333b" /><rect x="48" y="64" width="16" height="16" fill="#00ADD8" /><rect x="80" y="64" width="16" height="16" fill="#2d333b" /><rect x="112" y="64" width="16" height="16" fill="#2d333b" /><rect x="144" y="64" width="16" height="16" fill="#00ADD8" /><rect x="176" y="64" width="16" height="16" fill="#00ADD8" /><rect x="208" y="64" width="16" height="16" fill="#2d333b" /><rect x="0" y="80" width="16" height="16" fill="#2d333b" /><rect x="32" y="80" width="16" height="16" fill="#00ADD8" /><rect x="64" y="80" width="16" height="16" fill="#00ADD8" /><rect x="96" y="80" width="16" height="16" fill="#00ADD8" /><rect x="128" y="80" width="16" height="16" fill="#00ADD8" /><rect x="160" y="80" width="16" height="16" fill="#00ADD8" /><rect x="192" y="80" width="16" height="16" fill="#2d333b" /><rect x="224" y="80" width="16" height="16" fill="#2d333b" /><rect x="0" y="96" width="16" height="16" fill="#2d333b" /><rect x="32" y="96" width="16" height="16" fill="#00ADD8" /><rect x="64" y="96" width="16" height="16" fill="#00ADD8" /><rect x="96" y="96" width="16" height="16" fill="#00ADD8" /><rect x="128" y="96" width="16" height="16" fill="#2d333b" /><rect x="160" y="96" width="16" height="16" fill="#00ADD8" /><rect x="192" y="96" width="16" height="16" fill="#00ADD8" /><rect x="224" y="96" width="16" height="16" fill="#2d333b" /><rect x="16" y="112" width="16" height="16" fill="#2d333b" /><rect x="48" y="112" width="16" height="16" fill="#00ADD8" /><rect x="80" y="112" width="16" height="16" fill="#00ADD8" /><rect x="112" y="112" width="16" height="16" fill="#2d333b" /><rect x="144" y="112" width="16" height="16" fill="#00ADD8" /><rect x="176" y="112" width="16" height="16" fill="#00ADD8" /><rect x="208" y="112" width="16" height="16" fill="#00ADD8" /><rect x="240" y="112" width="16" height="16" fill="#2d333b" /><rect x="32" y="128" width="16" height="16" fill="#2d333b" /><rect x="64" y="128" width="16" height="16" fill="#00ADD8" /><rect x="96" y="128" width="16" height="16" fill="#2d333b" /><rect x="128" y="128" width="16" height="16" fill="#00ADD8" /><rect x="160" y="128" width="16" height="16" fill="#00ADD8" /><rect x="192" y="128" width="16" height="16" fill="#00ADD8" /><rect x="224" y="128" width="16" height="16" fill="#2d333b" /><rect x="32" y="144" width="16" height="16" fill="#2d333b" /><rect x="64" y="144" width="16" height="16" fill="#00ADD8" /><rect x="96" y="144" width="16" height="16" fill="#2d333b" /><rect x="128" y="144" width="16" height="16" fill="#00ADD8" /><rect x="160" y="144" width="16" height="16" fill="#00ADD8" /><rect x="192" y="144" width="16" height="16" fill="#00ADD8" /><rect x="224" y="144" width="16" height="16" fill="#2d333b" /><rect x="16" y="160" width="16" height="16" fill="#2d333b" /><rect x="48" y="160" width="16" height="16" fill="#00ADD8" /><rect x="80" y="160" width="16" height="16" fill="#2d333b" /><rect x="112" y="160" width="16" height="16" fill="#00ADD8" /><rect x="144" y="160" width="16" height="16" fill="#00ADD8" /><rect x="176" y="160" width="16" height="16" fill="#00ADD8" /><rect x="208" y="160" width="16" height="16" fill="#2d333b" /><rect x="0" y="176" width="16" height="16" fill="#2d333b" /><rect x="32" y="176" width="16" height="16" fill="#00ADD8" /><rect x="64" y="176" width="16" height="16" fill="#2d333b" /><rect x="96" y="176" width="16" height="16" fill="#00ADD8" /><rect x="128" y="176" width="16" height="16" fill="#00ADD8" /><rect x="160" y="176" width="16" height="16" fill="#00ADD8" /><rect x="192" y="176" width="16" height="16" fill="#2d333b" /><rect x="16" y="192" width="16" height="16" fill="#2d333b" /><rect x="48" y="192" width="16" height="16" fill="#2d333b" /><rect x="80" y="192" width="16" height="16" fill="#00ADD8" /><rect x="112" y="192" width="16" height="16" fill="#00ADD8" /><rect x="144" y="192" width="16" height="16" fill="#00ADD8" /><rect x="176" y="192" width="16" height="16" fill="#2d333b" /><rect x="32" y="208" width="16" height="16" fill="#2d333b" /><rect x="64" y="208" width="16" height="16" fill="#2d333b" /><rect x="96" y="208" width="16" height="16" fill="#2d333b" /><rect x="128" y="208" width="16" height="16" fill="#2d333b" /><rect x="160" y="208" width="16" height="16" fill="#2d333b" />
             
+        <animateTransform 
+            attributeName="transform" 
+            type="translate" 
+            values="0 0; 0 -8; 0 0" 
+            dur="3s" 
+            repeatCount="indefinite" 
+        />
+        <animate
+            attributeName="opacity"
+            values="0.7; 0.4; 0.7"
+            dur="2s"
+            repeatCount="indefinite"
+        />
         </g>
+        <!-- Speech Bubble -->
+        
+    <g transform="translate(226, -25)">
+      <!-- Speech bubble -->
+      <rect x="0" y="0" width="146" height="24" rx="10" ry="10" 
+            fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
+      <!-- Bubble tail -->
+      <polygon points="15,24 20,32 25,24" 
+               fill="#FFFFFF" stroke="#2d333b" stroke-width="1.5"/>
+      <line x1="16" y1="24" x2="24" y2="24" stroke="#FFFFFF" stroke-width="2"/>
+      <!-- Text -->
+      <text x="73" y="16" 
+            font-family="'Segoe UI', Arial, sans-serif" font-size="10" 
+            fill="#2d333b" text-anchor="middle">I'm fading away...</text>
+    </g>
+  
         <!-- Seasonal Accessory (z-index: above pet) -->
         
       </g>
       
-      <text x="50%" y="306" text-anchor="middle" font-family="monospace" font-size="11" fill="#666">
-        Lvl 5 • 👻 GHOST
+      <!-- Level & Mood Text -->
+      <text x="20" y="299" font-family="monospace" font-size="11" fill="#666">
+        💀 Lv.0 
+      </text>
+      <text x="276" y="299" text-anchor="end" font-family="monospace" font-size="11" fill="#666">
+        👻 GHOST 
+      </text>
+      
+      <!-- XP Progress Bar -->
+      <rect x="20" y="306" width="256" height="8" rx="4" fill="#e0e0e0" stroke="#0288d1" stroke-width="1"/>
+      <rect x="20" y="306" width="0" height="8" rx="4" fill="#e53935">
+        
+      </rect>
+      
+      <!-- XP Text -->
+      <text x="50%" y="329" text-anchor="middle" font-family="monospace" font-size="9" fill="#666">
+        💀 DEAD - Commit to revive!
       </text>
     
       
+      <!-- Achievement Badges -->
+      <g transform="translate(15, 311)">
+    <g class="achievements">
+      
+      <g transform="translate(5, 0)">
+        <title>Night Owl: Late night commit</title>
+        <circle cx="10" cy="10" r="10" fill="rgba(255,255,255,0.9)" stroke="#ddd" stroke-width="1"/>
+        <text x="10" y="14" text-anchor="middle" font-size="11">🦉</text>
+      </g>
+    
+      
+    </g>
+  </g>
     </svg>
