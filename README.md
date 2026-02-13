@@ -8,7 +8,6 @@ I'm a high school student based in Alberta, Canada 🇨🇦. I like observing ho
 - 🔴 Huge L.F.C. fan
 - ✈️ Dream of travelling the world
 - 🏃 Enjoy sports
-- 🗳️ Interested in global politics and current events
 - ⌨️ Tabs > Spaces
 - 📊 Data enthusiast
 - 💼 Casual interest in business, entrepreneurship, and finance
@@ -37,7 +36,6 @@ I'm a high school student based in Alberta, Canada 🇨🇦. I like observing ho
 - **[Football Market Value Predictor](https://github.com/yss1n-0/football-soccer-player-market-value-predictor)** – Predict player values using Python & machine learning then analyze predictions
 
 ## 🧮 Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yss1n-0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yss1n-0&layout=compact&theme=radical)
 
