@@ -42,4 +42,4 @@ I'm a high school student based in Alberta, Canada 🇨🇦. I like observing ho
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yma.abdelghany@gmail.com)  
 
-<p align="center">Thanks for stopping by 👋</p>
+<p align="center">Thanks for stopping by :)</p>
